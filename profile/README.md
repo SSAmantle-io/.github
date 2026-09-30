@@ -11,8 +11,8 @@
 ## 저장소
 | 저장소 | 설명 | 기술 |
 | --- | --- | --- |
-| [frontend](https://github.com/ssamantle-io/Frontend) | 게임 화면 | React, Vite |
-| [backend](https://github.com/ssamantle-io/Backend) | 게임 API, 방 관리, 실시간 전송 | Spring Boot, MySQL, WebSocket(STOMP) |
+| [Frontend](https://github.com/ssamantle-io/Frontend) | 게임 화면 | React, Vite |
+| [Backend](https://github.com/ssamantle-io/Backend) | 게임 API, 방 관리, 실시간 전송 | Spring Boot, MySQL, WebSocket(STOMP) |
 | similarity | 단어 유사도 계산 | FastAPI, fastText |
 
 ## 팀
