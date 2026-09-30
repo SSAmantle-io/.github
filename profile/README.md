@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | [Frontend](https://github.com/ssamantle-io/Frontend) | 게임 화면 | React, Vite |
 | [Backend](https://github.com/ssamantle-io/Backend) | 게임 API, 방 관리, 실시간 전송 | Spring Boot, MySQL, WebSocket(STOMP) |
-| similarity | 단어 유사도 계산 | FastAPI, fastText |
+| [FastAPI](https://github.com/ssamantle-io/FastAPI) | 단어 유사도 계산 | FastAPI, fastText |
 
 ## 팀
 | 이름 | 역할 |
